@@ -29,6 +29,16 @@
                   Delete Admin
                 </td>
               </tr>
+              <tr>
+                <td>2.</td>
+                <td>Bibek Magar</td>
+                <td>Bibek</td>
+                
+                <td>
+                <a href="#" class="btn-secondary">Update Admin</a>  
+                  Delete Admin
+                </td>
+              </tr>
              </table>
 
 
